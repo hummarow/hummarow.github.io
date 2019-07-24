@@ -11,4 +11,5 @@ Develop anything that looks fun.
 
 * * *
 You can contact me via email. _(Chinese, Korean, English available)_
-<pararelluni@unist.ac.kr>
+
+_<pararelluni@unist.ac.kr>_
