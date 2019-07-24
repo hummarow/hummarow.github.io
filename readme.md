@@ -6,8 +6,8 @@ Develop anything that looks fun.
 * * *
 
 ## Develop in C, C++, C#, and python.
-### Studied C# for unity.
-### Studied python for AI development.
++ Studied C# for unity.
++ Studied python for AI development.
 
 * * *
 You can contact me via email. _(Chinese, Korean, English available)_
